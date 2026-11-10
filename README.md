@@ -68,7 +68,7 @@
 
 ```bash
 # 环境要求：Node.js ≥ 22.5（内置 node:sqlite）+ sharp（安装时自动下载预编译二进制）
-git clone <your-repo-url> gallery
+git clone https://github.com/hakd-code/gallery.git
 cd gallery
 npm install
 npm start          # 打开 http://localhost:3100
